@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm althio, a canadian developer. 
+I'm evelyn, a canadian developer. 
 
 I like SwiftUI and WebAssembly, and my preferred programming languages are Rust and Swift. 
 
