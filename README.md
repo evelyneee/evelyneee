@@ -2,8 +2,7 @@
 
 I'm evelyn, a canadian developer. 
 
-I like SwiftUI and WebAssembly, and my preferred programming languages are Rust and Swift. 
-
+I like SwiftUI, Swift and WebAssembly
 Lately I've been mostly working on Accord, my discord client.
 
 You can contact me on discord at `evln#0001`
