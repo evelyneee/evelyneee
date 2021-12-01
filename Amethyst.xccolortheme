@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.901961 0.705882 0.313725 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>SFMono-Bold - 11.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.701961 0.694118 0.678431 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>SFMono-Regular - 11.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.223529 0.729412 0.901961 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>SFMono-Bold - 11.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.901961 0.705882 0.313725 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>SFMono-Regular - 11.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.817528 0.808113 0.76553 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>SFMono-Bold - 11.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.0392157 0.054902 0.0784314 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.701961 0.694118 0.678431 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.152941 0.215686 0.278431 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.901961 0.705882 0.313725 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
+	<key>DVTLineSpacing</key>
+	<real>1</real>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.96 0.96 0.96 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.8832 0.8832 0.8832 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 9.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.SFNS-RegularItalic - 10.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0 0 0 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.055 0.055 1 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.SFNS-Regular - 10.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.SFNS-Regular - 10.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>0 0 0 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.SFNS-Regular - 14.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.SFNS-Regular - 24.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.SFNS-Regular - 18.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.SFNS-Bold - 10.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.0391496 0.0313299 0.0990339 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.424672 0.424672 0.424672 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.910509 0.950667 0.999799 0.123955</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.612439 0.300929 0.906416 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.0980392 0.121569 0.14902 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.152941 0.215686 0.278431 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.929283 0.67827 0.779129 1</string>
+		<key>xcode.syntax.character</key>
+		<string>1 0.933333 0.6 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.384314 0.415686 0.45098 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.941176 0.443137 0.470588 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>1 0.560784 0.25098 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.691635 0.561639 0.823908 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.485954 0.408019 0.81977 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.845293 0.683457 1 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.929969 0.546 0.725768 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.728456 0.529561 0.989813 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.62119 0.346357 0.892277 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.505719 0.521094 0.819242 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.752334 0.404905 0.697974 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>1 0.380853 0.845656 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>1 0.560784 0.25098 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.738344 0.532961 0.999991 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.738344 0.532961 0.999991 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.740424 0.548146 0.829381 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.958144 0.494816 0.637939 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>1 0.718032 0.975105 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.572549 0.631373 0.694118 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.665 0.052 0.569 1</string>
+		<key>xcode.syntax.number</key>
+		<string>1 0.736442 0.898178 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.802113 0.791337 1 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.901961 0.713725 0.45098 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.546113 0.855757 0.561069 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.496926 0.785787 0.518594 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.character</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>CartographCF-RegularItalic - 12.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>CartographCF-RegularItalic - 12.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>CartographCF-RegularItalic - 12.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>CartographCF-RegularItalic - 12.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>CartographCF-RegularItalic - 12.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>CartographCF-RegularItalic - 12.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.number</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.string</key>
+		<string>CartographCF-Regular - 12.0</string>
+		<key>xcode.syntax.url</key>
+		<string>CartographCF-Regular - 12.0</string>
+	</dict>
+</dict>
+</plist>
