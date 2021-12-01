@@ -6,4 +6,4 @@ I like SwiftUI, Swift and WebAssembly
 
 Lately I've been mostly working on Accord, my discord client.
 
-You can contact me on discord at `evln#0001`
+You can contact me on discord at `evln#0001` or email me at `me@ebel.gay`
